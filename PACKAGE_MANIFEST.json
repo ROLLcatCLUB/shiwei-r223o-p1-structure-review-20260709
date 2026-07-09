@@ -1,0 +1,25 @@
+{
+  "stage_id": "1013R_R223O_P1_COLOR_MANUSCRIPT_STRUCTURE_RECOVERY",
+  "source_stage_id": "1013R_R223O_SECOND_CROSS_SAMPLE_VALIDATION",
+  "generated_at": "2026-07-09T23:16:21",
+  "formal_ui": false,
+  "r97b_modified": false,
+  "runtime_connected": false,
+  "provider_model_connected": false,
+  "database_written": false,
+  "files": [
+    "R223O_P1_teacher_manuscript_draft_v2.md",
+    "R223O_P1_teacher_manuscript_draft_v2.html",
+    "R223O_P1_color_lesson_mainline_map.md",
+    "R223O_P1_teaching_process_summary.md",
+    "R223O_P1_before_after_compare_with_R223O.md",
+    "R223O_P1_report.md",
+    "R223O_P1_browser_smoke_result.json",
+    "R223O_P1_teacher_manuscript_draft_v2_screenshot.png",
+    "R223O_P1_review_ledger_sample.json",
+    "R223O_P1_classroom_event_expansion_chain.json",
+    "README_FOR_GPT_REVIEW.md",
+    "validate_1013R_R223O_P1_color_manuscript_structure_recovery.py",
+    "validate_1013R_R223O_P1_color_manuscript_structure_recovery_result.json"
+  ]
+}

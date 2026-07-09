@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "check_count": 65,
+  "failed": 0,
+  "failures": [],
+  "ledger_event_count": 7,
+  "structure_recovery": "mainline_map_and_process_summary"
+}
